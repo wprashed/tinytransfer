@@ -1,0 +1,1 @@
+"module\\statistics\\": "module/mod_statistics/controller"

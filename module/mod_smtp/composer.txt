@@ -1,0 +1,1 @@
+"module\\smtp\\": "module/mod_smtp/controller"

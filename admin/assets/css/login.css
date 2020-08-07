@@ -1,0 +1,19 @@
+body {
+  background-color: #f7f9fb;
+}
+.container {
+  height: 100%;
+}
+.card-wrapper {
+  padding-top: 100px;
+}
+.card-body {
+  max-width: 450px;
+  background-color: #fff;
+  padding: 2rem;
+  border-color: transparent;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+}
+.card-title {
+  margin-bottom: 5px;
+}
