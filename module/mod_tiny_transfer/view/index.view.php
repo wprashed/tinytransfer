@@ -40,10 +40,10 @@
 			<div class="section-heading">
 				<h2 class="section-title flex flex-center flex-middle">
 					<i class="logo"></i>
-					<span>Tiny Transfer</span>
+					<span>Tortoiz Transfer</span>
 				</h2>
 				<p>
-					Tiny Transfer is the simplest way to send your files around the world
+					Tortoiz Transfer is the simplest way to send your files around the world
 				</p>
 			</div>
 		</div>
